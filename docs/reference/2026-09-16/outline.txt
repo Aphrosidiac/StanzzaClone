@@ -1,0 +1,1824 @@
+  <div .global-component  
+      ":root{--font-from:20;--font-to:20;--vw-from:calc(1920 / 100);--vw-to:calc(2400 /"
+    <div .css-component w-embed  
+        "[data-cookie='trigger'].active {
+    display: flex;
+    opacity: 100%;
+    trans"
+    <div .grid-style-fixed designer-only  
+      <div .grid-column tablet-grid mobile-grid  
+      <div .grid-column tablet-grid mobile-grid  
+      <div .grid-column tablet-grid  
+      <div .grid-column tablet-grid  
+      <div .grid-column tablet-grid  
+      <div .grid-column tablet-grid  
+      <div .grid-column tablet-grid  
+      <div .grid-column tablet-grid  
+      <div .grid-column  
+      <div .grid-column  
+      <div .grid-column  
+      <div .grid-column  
+    <div .js-component w-embed w-script  
+        "document.addEventListener("DOMContentLoaded",function(){let e="modal_state-open""
+        "document.addEventListener("DOMContentLoaded",()=>{let e=document.querySelectorAl"
+        "document.addEventListener("DOMContentLoaded",()=>{let t=document.querySelectorAl"
+        "!function(){"use strict";var e=!1,t=null,n={capture:!0,passive:!0},i=["pointerdo"
+    <div .header-scroll w-embed w-script  
+        "document.addEventListener("DOMContentLoaded",()=>{let e=document.querySelector('"
+  <div .page_wrap  
+    <div .is-glide-and-slide w-embed  
+        "/* Glide wipe for .u-btn — scaleX (GPU), no clip-path / scale-flip jank */
+
+.u-b"
+    <div .preloader data-lenis-display= data-wf--preloader--variant=second 
+      <div .preloader-content  
+        <div .preloader_head  
+          <a .logo-link is-main w-inline-block data-link=home data-wf--logo-link--variant=base href=/
+          <div .preloader_logo-aside  
+            <div .slogan-wrapper-preloader w-variant-305d2403-8d41-4822-b56d-6149e045cac8  
+              <p .u-body u-body_caption is-hero is-preloader  
+                "Architecture"
+            <div .close-preloader_icon w-variant-305d2403-8d41-4822-b56d-6149e045cac8  
+            <div .slogan-wrapper-preloader w-variant-305d2403-8d41-4822-b56d-6149e045cac8  
+              <p .u-body u-body_caption is-hero is-preloader  
+                "Architecture"
+            <div .close-preloader_icon w-variant-305d2403-8d41-4822-b56d-6149e045cac8  
+            <div .slogan-wrapper-preloader w-variant-305d2403-8d41-4822-b56d-6149e045cac8  
+              <p .u-body u-body_caption is-hero is-preloader  
+                "Architecture"
+            <div .preloader_logo-aside_video w-variant-305d2403-8d41-4822-b56d-6149e045cac8 w-embed  
+              <video . data-autoplay=true 
+                <source src=s://futuria-webm-video.b-cdn.net/stanza/writer.mov>
+                <source src=//futuria-webm-video.b-cdn.net/stanza/stanzza.webm>
+        <div .preloader_text  
+          <p .u-head u-head_one  
+            "Composed residential interiors."
+          <p .u-body u-body_body  
+            "Interiors designed as one complete whole."
+      <div .preloader_image-abs  
+        <div .preloader-image_flex  
+          <div .preloader-image_grid  
+            <div .preloader-image_item first one  
+              <img class="u-image is-blur" src=...9ee6e801ae6e050e47e94e6_1-hero-anim.webp alt="">
+            <div .preloader-image_item second two  
+              <img class="u-image is-blur" src=...9ee6e804fe5acc3c96a8b93_2-hero-anim.webp alt="">
+            <div .preloader-image_item first three  
+              <img class="u-image is-blur" src=...9ee6e809651caedf81df034_3-hero-anim.webp alt="">
+            <div .preloader-image_item second four  
+              <img class="u-image is-blur" src=...9ee6e800ada5ef0d5615b4e_4-hero-anim.webp alt="">
+            <div .preloader-image_item first five  
+              <img class="u-image is-blur" src=...9ee6e8020b6501ed7d5fe10_5-hero-anim.webp alt="">
+            <div .preloader-image_item second six  
+              <img class="u-image is-blur" src=...9ee6e80a5bc49a97129f69a_7-hero-anim.webp alt="">
+            <div .preloader-image_item first seven  
+              <img class="u-image is-blur" src=...9ee6e80ac7c1015b9a83885_6-hero-anim.webp alt="">
+            <div .preloader-image_item second eight  
+              <img class="u-image is-blur" src=...D1%81%D1%82%D0%B0%D0%BD%D0%B7%D0%B0.avif alt="">
+            <div .preloader-image_item first seven  
+              <img class="u-image is-blur" src=...9ee6e8046b909eb8a768789_8-hero-anim.webp alt="">
+            <div .preloader-image_item second six  
+              <img class="u-image is-blur" src=...9ee6e804fe5acc3c96a8b93_2-hero-anim.webp alt="">
+            <div .preloader-image_item first five  
+              <img class="u-image is-blur" src=...9ee6e809651caedf81df034_3-hero-anim.webp alt="">
+            <div .preloader-image_item second four  
+              <img class="u-image is-blur" src=...9ee6e800ada5ef0d5615b4e_4-hero-anim.webp alt="">
+            <div .preloader-image_item first three  
+              <img class="u-image is-blur" src=...9ee6e80a5bc49a97129f69a_7-hero-anim.webp alt="">
+            <div .preloader-image_item second two  
+              <img class="u-image is-blur" src=...9ee6e801ae6e050e47e94e6_1-hero-anim.webp alt="">
+            <div .preloader-image_item first one  
+              <img class="u-image is-blur" src=...9ee6e8020b6501ed7d5fe10_5-hero-anim.webp alt="">
+            <div .preloader_stroke-top  
+              <div .preloader-image_item second big  
+                <img class="u-image is-blur" src=...D1%81%D1%82%D0%B0%D0%BD%D0%B7%D0%B0.avif alt="">
+      <div .preloader_back  
+        <div .preloader_overlay  
+          <img class="preloader_overlay-image" src=...69f0fbbcdd71dda90b31471a_back-second.svg alt="">
+    <header .header data-scroll=header 
+      <div .header_balance is-left  
+        <div .nav w-dropdown data-delay=450 data-hover=true 
+          <div .nav_trigger w-dropdown-toggle  
+            <button .u-btn blur data-trigger= data-button=scroll 
+              <div .u-btn-awards  
+                <span .span blur-2 is-awards  
+                  "menu"
+                <span .span blur-2 is-awards is-second  
+                  "menu"
+              <div .u-icon blur-3 is-second is-awards  
+          <nav .nav_content w-dropdown-list data-lenis-display= 
+            <div .nav_content-inline  
+              <div .nav_content-main  
+                <nav .nav_content-menu  
+                  <a .u-link data-link=close-menu data-wf--text-link--settings-variant=base href=/#composition
+                    "About"
+                  <a .u-link data-link=close-menu data-wf--text-link--settings-variant=base href=/projects
+                    "Projects"
+                  <a .u-link data-link=close-menu data-wf--text-link--settings-variant=base href=/#story
+                    "Approach"
+                  <a .u-link data-link=close-menu data-wf--text-link--settings-variant=base href=/blog
+                    "Blog"
+                  <a .u-link data-link=close-menu data-wf--text-link--settings-variant=base href=#footer
+                    "Contact"
+                <div .separator-line  
+                  <div .nav_content-address_line  
+                    <div .nav_content-address_tag  
+                      <p .u-body u-body_caption is-current data-text-none=true data-text=caption 
+                        "address:"
+                    <div .nav_content-address_max  
+                      <a .u-link w-variant-4401d5c2-8aef-2b8a-b47c-fa1655f16d6c data-link= data-wf--text-link--settings-variant=address-link href=https://maps.app.goo.gl/TGYpnaESmci1h4PS
+                        "Carrer Ausias Marc 13, 08010, Barcelona"
+                  <div .nav_content-address_line  
+                    <div .nav_content-address_tag  
+                      <p .u-body u-body_caption is-current data-text-none=true data-text=caption 
+                        "Telephone:"
+                    <div .nav_content-address_max  
+                      <a .u-link w-variant-4401d5c2-8aef-2b8a-b47c-fa1655f16d6c data-link= data-wf--text-link--settings-variant=address-link href=tel:+34654496780
+                        "+34 654 496 780"
+            <div .nav_overflow  
+      <div .header_balance is-middle  
+        <div .logo-pc  
+          <a .logo-link w-variant-e0ff5358-2940-f99c-b843-4382ab8ef27b is-main w-inline-block data-link=home data-wf--logo-link--variant=white href=/
+        <div .logo-mobile  
+          <a .logo-link is-symbol w-inline-block data-link=home data-wf--logo-link-symbol--variant=base href=/
+        <div .preloader_logo-aside is-header  
+          <div .preloader_logo-aside_video w-embed  
+            <video . data-autoplay=true 
+              <source src=s://futuria-webm-video.b-cdn.net/stanza/writer.mov>
+              <source src=//futuria-webm-video.b-cdn.net/stanza/stanzza.webm>
+      <div .header_balance is-right  
+        <button .u-btn w-variant-441b9f6b-569c-5370-292f-da9b4a9ddddd data-wf--button--variant=menu data-trigger=calling-form data-lenis-stop= 
+          <span .  
+            <span .  
+              "Request a call"
+          <span .  
+    <div .main_wrap is-awards  
+      <section .u-section is-hero data-scroll=light 
+        <div .container is-hero  
+          <div .content is-hero  
+            <div .image-hero  
+              <img class="u-image is-blur" src=...D1%81%D1%82%D0%B0%D0%BD%D0%B7%D0%B0.avif alt="">
+              <div .hero-image_overlay  
+            <div .hero-content_wrapper  
+              <div .hero-content  
+                <div .hero-content_main  
+                  <div .slogan-hero_container is-hero is-awards  
+                    <div .slogan-hero_item is-awwards  
+                      <div .slogan-hero_container-figure  
+                      <p .u-body u-body_caption is-hero  
+                        "Architecture"
+                    <div .slogan-hero_icon is-awards  
+                    <div .slogan-hero_item is-awwards  
+                      <div .slogan-hero_container-figure  
+                      <p .u-body u-body_caption is-hero  
+                        "Design"
+                    <div .slogan-hero_icon is-awards  
+                    <div .slogan-hero_item is-awwards  
+                      <div .slogan-hero_container-figure  
+                      <p .u-body u-body_caption is-hero  
+                        "Delivery"
+                    <div .preloader_logo-aside_video is-hero is-awards is-pc w-embed  
+                      <video . data-autoplay=true data-delay=2.76 
+                        <source src=s://futuria-webm-video.b-cdn.net/stanza/writer.mov>
+                        <source src=//futuria-webm-video.b-cdn.net/stanza/stanzza.webm>
+                    <div .preloader_logo-aside_video is-hero is-awards is-mobile w-embed  
+                      <video . data-autoplay=true data-delay=2.75 
+                        <source src=s://futuria-webm-video.b-cdn.net/stanza/writer.mov>
+                        <source src=//futuria-webm-video.b-cdn.net/stanza/stanzza.webm>
+                  <div .heading-hero_container  
+                    <div .heading-hero_container-pc is-awards  
+                      <h1 .u-head u-head_one w-variant-12cdd94d-01b0-73b9-a5bb-6fbfaee45cfd data-preload=main-head data-text=head-one data-wf--head-1--variant=white 
+                        "A group of lines forming a unit within a poem."
+                    <div .heading-hero_container-mobile is-awards  
+                      <h1 .u-head u-head_one w-variant-12cdd94d-01b0-73b9-a5bb-6fbfaee45cfd data-preload=main-head data-text=head-one data-wf--head-1--variant=white 
+                        "A group of lines forming a unit within a poem."
+                  <div .text-hero_container  
+                    <div .text-hero_container-pc  
+                      <p .u-body u-body_body-big data-text-none=true data-text=big-body 
+                        "Interiors designed as one complete whole."
+                    <div .text-hero_container-mobile  
+                      <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                        "Interiors designed as one complete whole."
+                <div .is-hero_mobile  
+                  <button .u-btn w-variant-e90b2c05-289f-7ee3-03f0-6e151838f041 data-wf--button--variant=dark data-trigger=calling-form data-lenis-stop= 
+                    <span .  
+                      <span .  
+                        "Request a call"
+                    <span .  
+      <div .scroll-chess is-vis  
+        <div .scroll-chess-item is-left  
+        <div .scroll-chess-item is-right  
+      <section .u-section is-composition-awards data-scroll=dark 
+        <div .container is-padding  
+          <div .content is-composition  
+            <div .content_composition  
+              <div .content_composition-heading  
+                <div .content_composition-caption is-pc  
+                  <div .caption-wrapper data-text-none= data-text=caption data-wf--caption--variant=light 
+                    <div .braket-wrapper  
+                    <p .u-body u-body_caption is-current  
+                      "COMPOSED"
+                    <div .braket-wrapper  
+                <div .content_composition-caption is-mobile  
+                  <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                    <div .braket-wrapper  
+                    <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                      "COMPOSED"
+                    <div .braket-wrapper  
+                <div .content_composition-heading_max is-pc  
+                  <h2 .u-head u-head_two w-variant-eee1df5d-fe3b-09cf-7f9a-6bc01baea8ee data-text-none= data-text=head-two data-wf--head-2--variant=middle-lg-dark 
+                    "A home"
+                  <h2 .u-head u-head_two w-variant-eee1df5d-fe3b-09cf-7f9a-6bc01baea8ee data-text-none= data-text=head-two data-wf--head-2--variant=middle-lg-dark 
+                    "is a composition."
+                <div .content_composition-heading_max is-mobile  
+                  <h2 .u-head u-head_two w-variant-a56ecc1e-8c13-d3a9-2361-9dd741b15976 data-text-none= data-text=head-two data-wf--head-2--variant=middle-lg 
+                    "A home is a composition."
+              <div .content_composition-text is-awards  
+                <div .content_composition-text_wrapper is-awards  
+                  <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                    "In a well-composed interior, nothing is accidental. Proportion sets the structur"
+              <div .content_composition-text is-second is-awards  
+                <div .content_composition-text_wrapper is-awards  
+                  <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                    "We begin with how the home should work, refine how it should feel, and guide eve"
+              <div .content_composition_list w-dyn-list  
+                <div .content_composition_back w-dyn-items  
+                  <div .composition_card-middle w-dyn-item  
+                    <a .content_composition-card w-inline-block data-wf--component-card--variant=awards data-wf-component-id=2d32df46-7f96-4e63-4a6e-eb6851 data-wf-variant-state=0f5daddb-77e5-ab6d-b531-2b57e1 href=/projects/pau-claris-apartment-main
+                      <div .content_composition-card-content  
+                        <div .content_composition-card-botttom  
+                          <button .u-btn blur-4 is-compos-anim data-trigger= data-lenis-stop= 
+                            <span .span blur-5  
+                              "view"
+                      <div .content_composition-card-overlay  
+                      <div .content_composition-card-image w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986  
+                        <img class="u-image is-blur" src=...b93785/6a4788c15cf2d44eb4b4f178_Pau.avif alt="">
+                        <video .video-composition w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-autoplay=true 
+                      <div .content_composition-card-over w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-awards=scroll 
+                  <div .composition_card-middle w-dyn-item  
+                    <a .content_composition-card w-inline-block data-wf--component-card--variant=awards data-wf-component-id=2d32df46-7f96-4e63-4a6e-eb6851 data-wf-variant-state=0f5daddb-77e5-ab6d-b531-2b57e1 href=/projects/apartement-in-valencinia
+                      <div .content_composition-card-content  
+                        <div .content_composition-card-botttom  
+                          <button .u-btn blur-4 is-compos-anim data-trigger= data-lenis-stop= 
+                            <span .span blur-5  
+                              "view"
+                      <div .content_composition-card-overlay  
+                      <div .content_composition-card-image w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986  
+                        <img class="u-image is-blur" src=...5/6a4788d5841b24ccb7063b9e_Valencia.avif alt="">
+                        <video .video-composition w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-autoplay=true 
+                      <div .content_composition-card-over w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-awards=scroll 
+                  <div .composition_card-middle w-dyn-item  
+                    <a .content_composition-card w-inline-block data-wf--component-card--variant=awards data-wf-component-id=2d32df46-7f96-4e63-4a6e-eb6851 data-wf-variant-state=0f5daddb-77e5-ab6d-b531-2b57e1 href=/projects/chok
+                      <div .content_composition-card-content  
+                        <div .content_composition-card-botttom  
+                          <button .u-btn blur-4 is-compos-anim data-trigger= data-lenis-stop= 
+                            <span .span blur-5  
+                              "view"
+                      <div .content_composition-card-overlay  
+                      <div .content_composition-card-image w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986  
+                        <img class="u-image is-blur" src=...93785/6a47c8a660ca9bcc367ad484_Chok.avif alt="">
+                        <video .video-composition w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-autoplay=true 
+                      <div .content_composition-card-over w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-awards=scroll 
+                  <div .composition_card-middle w-dyn-item  
+                    <a .content_composition-card w-inline-block data-wf--component-card--variant=awards data-wf-component-id=2d32df46-7f96-4e63-4a6e-eb6851 data-wf-variant-state=0f5daddb-77e5-ab6d-b531-2b57e1 href=/projects/jazean-coffee-house
+                      <div .content_composition-card-content  
+                        <div .content_composition-card-botttom  
+                          <button .u-btn blur-4 is-compos-anim data-trigger= data-lenis-stop= 
+                            <span .span blur-5  
+                              "view"
+                      <div .content_composition-card-overlay  
+                      <div .content_composition-card-image w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986  
+                        <img class="u-image is-blur" src=...785/6a4788394562395f962728a3_Jazean.avif alt="">
+                        <video .video-composition w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-autoplay=true 
+                      <div .content_composition-card-over w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-awards=scroll 
+                  <div .composition_card-middle w-dyn-item  
+                    <a .content_composition-card w-inline-block data-wf--component-card--variant=awards data-wf-component-id=2d32df46-7f96-4e63-4a6e-eb6851 data-wf-variant-state=0f5daddb-77e5-ab6d-b531-2b57e1 href=/projects/dose-coffee-house
+                      <div .content_composition-card-content  
+                        <div .content_composition-card-botttom  
+                          <button .u-btn blur-4 is-compos-anim data-trigger= data-lenis-stop= 
+                            <span .span blur-5  
+                              "view"
+                      <div .content_composition-card-overlay  
+                      <div .content_composition-card-image w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986  
+                        <img class="u-image is-blur" src=...93785/6a47c89b96f96fdc8b6fc485_Dose.avif alt="">
+                        <video .video-composition w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-autoplay=true 
+                      <div .content_composition-card-over w-variant-0f5daddb-77e5-ab6d-b531-2b57e1474986 data-awards=scroll 
+              <div .script-composition w-embed w-script  
+                  "const isDesktop=window.matchMedia("(hover: hover) and (pointer: fine)").matches;"
+              <div .content_composition-line  
+              <div .content_composition-line is-right  
+              <div .content_composition-line is-middle is-mid-right  
+              <div .content_composition-line is-middle is-mid-left  
+      <section .u-section is-apart data-scroll=light data-wf--projects--variant=main-v2 data-wf-component-id=12da9841-249e-97ce-ecc8-2662b5 data-wf-variant-state=0f817d1d-1d71-d9b5-d2b3-40cf18 
+        <div .scroll-chess w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1 is-gradient  
+          <div .scroll-chess-item is-left is-gradient w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+          <div .scroll-chess-item is-right is-gradient w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+        <div .swiper-tools  
+          <div .swiper-arrow-wrapper  
+            <div .arrow-wrapper  
+              <div .pagination_btn swiper-arrow swiper_left data-slider=arrow-left 
+                <button .u-btn-arrow is-left swiper-arrow is-full w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                  <div .u-btn-arrow-icon  
+              <div .pagination_btn swiper-arrow swiper_right data-slider=arrow-right 
+                <button .u-btn-arrow is-right swiper-arrow is-full w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                  <div .u-btn-arrow-icon  
+          <div .swiper-scroll data-slider=scrollbar 
+        <div .collection-project-home w-dyn-list data-slider=swiper 
+          <div .collection-project-home is-top w-dyn-items data-slider=swiper-wrapper 
+            <div .collection-project-home w-dyn-item data-slider=swiper-slide 
+              <div .container is-apart  
+                <div .content is-apart  
+                  <div .content_apartments w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                    <div .apartments_main  
+                      <div .apartments_main_content  
+                        <div .apartments_main_head  
+                          <div .caption-mobile  
+                            <div .caption-wrapper data-text-none= data-text=caption data-wf--caption--variant=light 
+                              <div .braket-wrapper  
+                              <p .u-body u-body_caption is-current  
+                                "in years"
+                              <div .braket-wrapper  
+                          <div .apartments_main_head-container  
+                            <h2 .u-head u-head_two is-light data-text-none=true data-text=head-two 
+                              "Pau Claris Apartment"
+                        <div .apartments_main_advantages  
+                          <div .apartments_main_advantage is-one  
+                            <div .apartments_main_advantage-tag is-relative is-one  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Project executed"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "In"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "62"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "days"
+                          <div .apartments_main_advantage is-two  
+                            <div .apartments_main_advantage-tag is-relative is-two  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Area"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "62"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "m"
+                                  "2"
+                          <div .apartments_main_advantage is-three  
+                            <div .apartments_main_advantage-tag is-relative is-three  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "City & country"
+                            <div .apartments_main_adv-flex  
+                              <div .apartments_main_adv-flex is-zero  
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  "Barcelona"
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  ","
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "Spain"
+                      <div .apartments_footer  
+                        <div .apartments_footer_bttn  
+                          <div .apartments_footer is-pc is-anim  
+                            <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/pau-claris-apartment-main
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                          <div .apartments_footer is-pc is-pc-main  
+                            <a .u-btn-link w-variant-80dbedc2-db22-ff3f-01a7-aeef4edd89b7 w-button data-wf--button-link--settings-color=blur href=/projects/pau-claris-apartment-main
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                        <div .apartments_footer is-mob  
+                          <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/pau-claris-apartment-main
+                            "View Project"
+                          <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                            "View all projects"
+                    <div .content_apatments-slider  
+                      <div .content_apatments-slider_mask  
+                        <div .content_apatments-slide  
+                          <div .content_apatments-slider--overlay w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                          <img class="u-image is-blur" src=...d6b93785/6a54ebe74a9d263b36e1bbf2_1.avif alt="">
+                          <div .content_apatments-slide-number  
+                            <p .slider_text  
+                              "0"
+                            <p .slider_text  
+                              "1"
+                            <p .slider_text op-50  
+                              "/"
+                            <p .slider_text op-50 is-small  
+                              "05"
+                    <div .content_apartments_gradient  
+                    <div .content_apatments-back is-first  
+                      <img class="u-image is-blur" src=...d6b93785/6a54ebe74a9d263b36e1bbf2_1.avif alt="">
+                    <div .content_apatments-back is-second  
+                      <img class="u-image is-blur" src=...d6b93785/6a54ebe74a9d263b36e1bbf2_1.avif alt="">
+            <div .collection-project-home w-dyn-item data-slider=swiper-slide 
+              <div .container is-apart  
+                <div .content is-apart  
+                  <div .content_apartments w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                    <div .apartments_main  
+                      <div .apartments_main_content  
+                        <div .apartments_main_head  
+                          <div .caption-mobile  
+                            <div .caption-wrapper data-text-none= data-text=caption data-wf--caption--variant=light 
+                              <div .braket-wrapper  
+                              <p .u-body u-body_caption is-current  
+                                "in years"
+                              <div .braket-wrapper  
+                          <div .apartments_main_head-container  
+                            <h2 .u-head u-head_two is-light data-text-none=true data-text=head-two 
+                              "Valencia apartment"
+                        <div .apartments_main_advantages  
+                          <div .apartments_main_advantage is-one  
+                            <div .apartments_main_advantage-tag is-relative is-one  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Project executed"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "In"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "78"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "days"
+                          <div .apartments_main_advantage is-two  
+                            <div .apartments_main_advantage-tag is-relative is-two  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Area"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "78"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "m"
+                                  "2"
+                          <div .apartments_main_advantage is-three  
+                            <div .apartments_main_advantage-tag is-relative is-three  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "City & country"
+                            <div .apartments_main_adv-flex  
+                              <div .apartments_main_adv-flex is-zero  
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  "Barcelona"
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  ","
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "Spain"
+                      <div .apartments_footer  
+                        <div .apartments_footer_bttn  
+                          <div .apartments_footer is-pc is-anim  
+                            <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/apartement-in-valencinia
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                          <div .apartments_footer is-pc is-pc-main  
+                            <a .u-btn-link w-variant-80dbedc2-db22-ff3f-01a7-aeef4edd89b7 w-button data-wf--button-link--settings-color=blur href=/projects/apartement-in-valencinia
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                        <div .apartments_footer is-mob  
+                          <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/apartement-in-valencinia
+                            "View Project"
+                          <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                            "View all projects"
+                    <div .content_apatments-slider  
+                      <div .content_apatments-slider_mask  
+                        <div .content_apatments-slide  
+                          <div .content_apatments-slider--overlay w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                          <img class="u-image is-blur" src=...d6b93785/6a54e95e15904f715ba47cc8_1.avif alt="">
+                          <div .content_apatments-slide-number  
+                            <p .slider_text  
+                              "0"
+                            <p .slider_text  
+                              "2"
+                            <p .slider_text op-50  
+                              "/"
+                            <p .slider_text op-50 is-small  
+                              "05"
+                    <div .content_apartments_gradient  
+                    <div .content_apatments-back is-first  
+                      <img class="u-image is-blur" src=...d6b93785/6a54e95e15904f715ba47cc8_1.avif alt="">
+                    <div .content_apatments-back is-second  
+                      <img class="u-image is-blur" src=...d6b93785/6a54e95e15904f715ba47cc8_1.avif alt="">
+            <div .collection-project-home w-dyn-item data-slider=swiper-slide 
+              <div .container is-apart  
+                <div .content is-apart  
+                  <div .content_apartments w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                    <div .apartments_main  
+                      <div .apartments_main_content  
+                        <div .apartments_main_head  
+                          <div .caption-mobile  
+                            <div .caption-wrapper data-text-none= data-text=caption data-wf--caption--variant=light 
+                              <div .braket-wrapper  
+                              <p .u-body u-body_caption is-current  
+                                "in years"
+                              <div .braket-wrapper  
+                          <div .apartments_main_head-container  
+                            <h2 .u-head u-head_two is-light data-text-none=true data-text=head-two 
+                              "Jazean coffee house"
+                        <div .apartments_main_advantages  
+                          <div .apartments_main_advantage is-one  
+                            <div .apartments_main_advantage-tag is-relative is-one  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Project executed"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "In"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "65"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "days"
+                          <div .apartments_main_advantage is-two  
+                            <div .apartments_main_advantage-tag is-relative is-two  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Area"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "65"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "m"
+                                  "2"
+                          <div .apartments_main_advantage is-three  
+                            <div .apartments_main_advantage-tag is-relative is-three  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "City & country"
+                            <div .apartments_main_adv-flex  
+                              <div .apartments_main_adv-flex is-zero  
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  "Riyadh"
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  ","
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "Saudi Arabia"
+                      <div .apartments_footer  
+                        <div .apartments_footer_bttn  
+                          <div .apartments_footer is-pc is-anim  
+                            <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/jazean-coffee-house
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                          <div .apartments_footer is-pc is-pc-main  
+                            <a .u-btn-link w-variant-80dbedc2-db22-ff3f-01a7-aeef4edd89b7 w-button data-wf--button-link--settings-color=blur href=/projects/jazean-coffee-house
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                        <div .apartments_footer is-mob  
+                          <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/jazean-coffee-house
+                            "View Project"
+                          <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                            "View all projects"
+                    <div .content_apatments-slider  
+                      <div .content_apatments-slider_mask  
+                        <div .content_apatments-slide  
+                          <div .content_apatments-slider--overlay w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                          <img class="u-image is-blur" src=...93785/6a3d4f69979005eb86a7e17b_reel.avif alt="">
+                          <div .content_apatments-slide-number  
+                            <p .slider_text  
+                              "0"
+                            <p .slider_text  
+                              "3"
+                            <p .slider_text op-50  
+                              "/"
+                            <p .slider_text op-50 is-small  
+                              "05"
+                    <div .content_apartments_gradient  
+                    <div .content_apatments-back is-first  
+                      <img class="u-image is-blur" src=...93785/6a3d4f69979005eb86a7e17b_reel.avif alt="">
+                    <div .content_apatments-back is-second  
+                      <img class="u-image is-blur" src=...93785/6a3d4f69979005eb86a7e17b_reel.avif alt="">
+            <div .collection-project-home w-dyn-item data-slider=swiper-slide 
+              <div .container is-apart  
+                <div .content is-apart  
+                  <div .content_apartments w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                    <div .apartments_main  
+                      <div .apartments_main_content  
+                        <div .apartments_main_head  
+                          <div .caption-mobile  
+                            <div .caption-wrapper data-text-none= data-text=caption data-wf--caption--variant=light 
+                              <div .braket-wrapper  
+                              <p .u-body u-body_caption is-current  
+                                "in years"
+                              <div .braket-wrapper  
+                          <div .apartments_main_head-container  
+                            <h2 .u-head u-head_two is-light data-text-none=true data-text=head-two 
+                              "Dose coffee house"
+                        <div .apartments_main_advantages  
+                          <div .apartments_main_advantage is-one  
+                            <div .apartments_main_advantage-tag is-relative is-one  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Project executed"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "In"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "82"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "days"
+                          <div .apartments_main_advantage is-two  
+                            <div .apartments_main_advantage-tag is-relative is-two  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Area"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "82"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "m"
+                                  "2"
+                          <div .apartments_main_advantage is-three  
+                            <div .apartments_main_advantage-tag is-relative is-three  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "City & country"
+                            <div .apartments_main_adv-flex  
+                              <div .apartments_main_adv-flex is-zero  
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  "Riyadh"
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  ","
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "Saudi Arabia"
+                      <div .apartments_footer  
+                        <div .apartments_footer_bttn  
+                          <div .apartments_footer is-pc is-anim  
+                            <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/dose-coffee-house
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                          <div .apartments_footer is-pc is-pc-main  
+                            <a .u-btn-link w-variant-80dbedc2-db22-ff3f-01a7-aeef4edd89b7 w-button data-wf--button-link--settings-color=blur href=/projects/dose-coffee-house
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                        <div .apartments_footer is-mob  
+                          <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/dose-coffee-house
+                            "View Project"
+                          <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                            "View all projects"
+                    <div .content_apatments-slider  
+                      <div .content_apatments-slider_mask  
+                        <div .content_apatments-slide  
+                          <div .content_apatments-slider--overlay w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                          <img class="u-image is-blur" src=...d6b93785/6a550c31b738ef972b8c1417_1.avif alt="">
+                          <div .content_apatments-slide-number  
+                            <p .slider_text  
+                              "0"
+                            <p .slider_text  
+                              "4"
+                            <p .slider_text op-50  
+                              "/"
+                            <p .slider_text op-50 is-small  
+                              "05"
+                    <div .content_apartments_gradient  
+                    <div .content_apatments-back is-first  
+                      <img class="u-image is-blur" src=...d6b93785/6a550c31b738ef972b8c1417_1.avif alt="">
+                    <div .content_apatments-back is-second  
+                      <img class="u-image is-blur" src=...d6b93785/6a550c31b738ef972b8c1417_1.avif alt="">
+            <div .collection-project-home w-dyn-item data-slider=swiper-slide 
+              <div .container is-apart  
+                <div .content is-apart  
+                  <div .content_apartments w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                    <div .apartments_main  
+                      <div .apartments_main_content  
+                        <div .apartments_main_head  
+                          <div .caption-mobile  
+                            <div .caption-wrapper data-text-none= data-text=caption data-wf--caption--variant=light 
+                              <div .braket-wrapper  
+                              <p .u-body u-body_caption is-current  
+                                "in years"
+                              <div .braket-wrapper  
+                          <div .apartments_main_head-container  
+                            <h2 .u-head u-head_two is-light data-text-none=true data-text=head-two 
+                              "Cafe Chok"
+                        <div .apartments_main_advantages  
+                          <div .apartments_main_advantage is-one  
+                            <div .apartments_main_advantage-tag is-relative is-one  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Project executed"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "In"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "32"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "days"
+                          <div .apartments_main_advantage is-two  
+                            <div .apartments_main_advantage-tag is-relative is-two  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "Area"
+                            <div .apartments_main_adv-flex  
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "32"
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "m"
+                                  "2"
+                          <div .apartments_main_advantage is-three  
+                            <div .apartments_main_advantage-tag is-relative is-three  
+                              <p .u-body u-body_caption is-current data-text=caption 
+                                "City & country"
+                            <div .apartments_main_adv-flex  
+                              <div .apartments_main_adv-flex is-zero  
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  "Riyadh"
+                                <p .u-body u-body_body-big data-text=big-body 
+                                  ","
+                              <p .u-body u-body_body-big data-text=big-body 
+                                "Saudi Arabia"
+                      <div .apartments_footer  
+                        <div .apartments_footer_bttn  
+                          <div .apartments_footer is-pc is-anim  
+                            <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/chok
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                          <div .apartments_footer is-pc is-pc-main  
+                            <a .u-btn-link w-variant-80dbedc2-db22-ff3f-01a7-aeef4edd89b7 w-button data-wf--button-link--settings-color=blur href=/projects/chok
+                              "View Project"
+                            <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                              "View all projects"
+                        <div .apartments_footer is-mob  
+                          <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects/chok
+                            "View Project"
+                          <a .u-btn-link w-variant-54defe50-d4a1-345d-0d08-b1ea9a848df7 w-button data-wf--button-link--settings-color=white-main href=/projects
+                            "View all projects"
+                    <div .content_apatments-slider  
+                      <div .content_apatments-slider_mask  
+                        <div .content_apatments-slide  
+                          <div .content_apatments-slider--overlay w-variant-0f817d1d-1d71-d9b5-d2b3-40cf18a498f1  
+                          <img class="u-image is-blur" src=...96a0e4f739732ef0_Frame%202147225912.avif alt="">
+                          <div .content_apatments-slide-number  
+                            <p .slider_text  
+                              "0"
+                            <p .slider_text  
+                              "5"
+                            <p .slider_text op-50  
+                              "/"
+                            <p .slider_text op-50 is-small  
+                              "05"
+                    <div .content_apartments_gradient  
+                    <div .content_apatments-back is-first  
+                      <img class="u-image is-blur" src=...96a0e4f739732ef0_Frame%202147225912.avif alt="">
+                    <div .content_apatments-back is-second  
+                      <img class="u-image is-blur" src=...96a0e4f739732ef0_Frame%202147225912.avif alt="">
+        <div .code-swiper-project w-embed  
+            "[data-slider=scrollbar] .swiper-scrollbar-drag {
+	height: 4px !important;
+    bo"
+      <section .u-section data-scroll=dark 
+        <div .container is-padding  
+          <div .content is-design  
+            <div .content_composed  
+              <div .content_composed-wrapper  
+                <div .content_composed-text  
+                  <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                    "You always know what's happening, when, and what it costs. That's how we protect"
+                  <div .content_composed-button  
+                    <a .u-btn-link w-button data-wf--button-link--settings-color=base href=#
+                      "Request a call"
+                <div .content_composed-heading  
+                  <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                    <div .braket-wrapper  
+                    <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                      "COMPOSED"
+                    <div .braket-wrapper  
+                  <div .content_composed-head  
+                    <h2 .u-head u-head_two data-text-none= data-text=head-two data-wf--head-2--variant=base 
+                      "Controlled delivery."
+                    <h2 .u-head u-head_two data-text-none= data-text=head-two data-wf--head-2--variant=base 
+                      "Calm by design."
+              <div .content_composed-image  
+                <div .composed-card w-variant-90a235fe-3339-e001-1f18-628108253494 data-wf--design-control-card--variant=sticky data-wf-component-id=5a5c5c05-71e9-3a1a-ed22-4aef79 data-wf-variant-state=90a235fe-3339-e001-1f18-628108 
+                  <div .composed-card_image w-variant-90a235fe-3339-e001-1f18-628108253494  
+                    <div .composed-card_image-overlay data-overlay-design=01 
+                    <img class="u-image is-blur w-variant-90a235fe-3339-e001-1f18-628108253494" src=...58ad22521be92f2f_Frame%202131331331.avif alt="">
+                  <div .composed-card_text  
+                    <div .composed-card_tag  
+                      <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                        <div .braket-wrapper  
+                        <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                          "01"
+                        <div .braket-wrapper  
+                    <div .composed-card_text-content  
+                      <h3 .u-head u-head_three data-text-none= data-text=head-three 
+                        "One responsible lead"
+                      <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                        "A single point of contact from brief to handover — full accountability, no hando"
+                <div .composed-card w-variant-90a235fe-3339-e001-1f18-628108253494 data-wf--design-control-card--variant=sticky data-wf-component-id=5a5c5c05-71e9-3a1a-ed22-4aef79 data-wf-variant-state=90a235fe-3339-e001-1f18-628108 
+                  <div .composed-card_image w-variant-90a235fe-3339-e001-1f18-628108253494  
+                    <div .composed-card_image-overlay data-overlay-design=02 
+                    <img class="u-image is-blur w-variant-90a235fe-3339-e001-1f18-628108253494" src=.../69ee70eaa5bc49a9712a21d3_team-work.webp alt="">
+                    <video .video-composition w-variant-90a235fe-3339-e001-1f18-628108253494 data-autoplay=true 
+                  <div .composed-card_text  
+                    <div .composed-card_tag  
+                      <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                        <div .braket-wrapper  
+                        <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                          "02"
+                        <div .braket-wrapper  
+                    <div .composed-card_text-content  
+                      <h3 .u-head u-head_three data-text-none= data-text=head-three 
+                        "Structured process"
+                      <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                        "Each phase has defined stages, milestones, and sign-offs. Nothing moves forward "
+                <div .composed-card w-variant-90a235fe-3339-e001-1f18-628108253494 data-wf--design-control-card--variant=sticky data-wf-component-id=5a5c5c05-71e9-3a1a-ed22-4aef79 data-wf-variant-state=90a235fe-3339-e001-1f18-628108 
+                  <div .composed-card_image w-variant-90a235fe-3339-e001-1f18-628108253494  
+                    <div .composed-card_image-overlay data-overlay-design=03 
+                    <img class="u-image is-blur w-variant-90a235fe-3339-e001-1f18-628108253494" src=...e70ea874551e8c744ee9f_team-workflow.webp alt="">
+                    <video .video-composition w-variant-90a235fe-3339-e001-1f18-628108253494 data-autoplay=true 
+                  <div .composed-card_text  
+                    <div .composed-card_tag  
+                      <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                        <div .braket-wrapper  
+                        <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                          "03"
+                        <div .braket-wrapper  
+                    <div .composed-card_text-content  
+                      <h3 .u-head u-head_three data-text-none= data-text=head-three 
+                        "Changes and costs — always visible"
+                      <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                        "Every revision is documented, priced, and agreed before execution. No surprises "
+                <div .composed-card w-variant-b2482006-b0ef-f912-ba4b-922c1d41bb3e data-wf--design-control-card--variant=sticky-last data-wf-component-id=5a5c5c05-71e9-3a1a-ed22-4aef79 data-wf-variant-state=b2482006-b0ef-f912-ba4b-922c1d 
+                  <div .composed-card_image w-variant-b2482006-b0ef-f912-ba4b-922c1d41bb3e  
+                    <div .composed-card_image-overlay data-overlay-design=04 
+                    <img class="u-image is-blur" src=...9ee70eab905a69a8f98030c_team-object.webp alt="">
+                    <video .video-composition w-variant-b2482006-b0ef-f912-ba4b-922c1d41bb3e data-autoplay=true 
+                  <div .composed-card_text  
+                    <div .composed-card_tag  
+                      <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                        <div .braket-wrapper  
+                        <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                          "04"
+                        <div .braket-wrapper  
+                    <div .composed-card_text-content  
+                      <h3 .u-head u-head_three data-text-none= data-text=head-three 
+                        "Quality on site"
+                      <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                        "Author supervision throughout construction — your vision doesn't get lost in tra"
+      <div .scroll-container is-awards  
+        <section .u-section is-approach data-scroll=light 
+          <div .container is-approach  
+            <div .content is-aproach  
+              <div .content_approach is-awards  
+                <div .content_approach-main  
+                  <div .content_approach-main_heading  
+                    <div .caption-wrapper data-text-none= data-text=caption data-wf--caption--variant=light 
+                      <div .braket-wrapper  
+                      <p .u-body u-body_caption is-current  
+                        "in years"
+                      <div .braket-wrapper  
+                    <div .content_approach-main_heading--flex  
+                      <h2 .u-head u-head_two w-variant-fa5a269c-7324-3bbb-bec4-9cc77ab02abf data-text-none= data-text=head-two data-wf--head-2--variant=light 
+                        "Architectural thinking."
+                      <h2 .u-head u-head_two w-variant-fa5a269c-7324-3bbb-bec4-9cc77ab02abf data-text-none= data-text=head-two data-wf--head-2--variant=light 
+                        "Design sensibility."
+                      <h2 .u-head u-head_two w-variant-fa5a269c-7324-3bbb-bec4-9cc77ab02abf data-text-none= data-text=head-two data-wf--head-2--variant=light 
+                        "Premium delivery."
+                  <div .content_approach-main_left  
+                    <img class="u-image is-blur" src=...715c5a1922a3cf704f04_Mask%20group-1.webp alt="">
+                  <div .content_approach-main_right  
+                    <img class="u-image is-blur" src=...ee715cd027b41f18e6543d_Mask%20group.webp alt="">
+                <div .content_approach-scroll  
+                  <div .content_approach-scroll-item is-awards  
+                    <div .content_approach-scroll-balance  
+                      <div .content_approach-scroll-heading  
+                        <div .caption-wrapper dark-9 data-scroll-delievery=tag-1 data-text-none=true 
+                          <div .braket-wrapper dark-12  
+                          <p .u-body u-body_caption is-current dark-11  
+                            "01"
+                          <div .braket-wrapper dark-12  
+                        <h2 .u-head u-head_two data-scroll-delievery=head-1 data-text-none=true 
+                          "Architecture"
+                    <div .content_approach-scroll-balance is-flex  
+                      <div .content_approach-scroll-one-image is-awards  
+                        <img class="content_approach-scroll-one-img is-awards" src=...b90bbcbd927803_mask-object-gradient.avif alt="">
+                    <div .content_approach-scroll-balance is-bottom  
+                      <div .content_approach-scroll-max  
+                        <p .u-body u-body_body data-scroll-delievery=text-1 data-text-none=true 
+                          "Planning, circulation, engineering logic. The invisible layer that makes daily l"
+                    <div .content_approach-scroll-item-back  
+                      <img class="u-image is-blur" src=...0b653754d90c6_back%20approach-scroll.svg alt="">
+                    <div .content_approach-scroll-item-back is-mobile  
+                      <img class="u-image is-blur" src=...bb25_back%20approach-scroll%20mobile.svg alt="">
+                  <div .content_approach-scroll-item is-awards  
+                    <div .content_approach-scroll-balance  
+                      <div .content_approach-scroll-heading  
+                        <div .caption-wrapper data-scroll-delievery=tag-2 data-text-none=true 
+                          <div .braket-wrapper  
+                          <p .u-body u-body_caption is-current  
+                            "02"
+                          <div .braket-wrapper  
+                        <h2 .u-head u-head_two light-2 data-scroll-delievery=head-2 data-text-none=true 
+                          "Design"
+                    <div .content_approach-scroll-balance is-flex-second  
+                      <div .content_approach-scroll-two-image is-bot  
+                        <img class="content_approach-scroll-two-img" src=...5f0f51a03a0a533a_approach-frame-one.avif alt="">
+                      <div .content_approach-scroll-two-image is-top  
+                        <img class="content_approach-scroll-two-img" src=...06b6197489f7bf7_approach-frame-four.avif alt="">
+                      <div .content_approach-scroll-two-image is-bot  
+                        <img class="content_approach-scroll-two-img" src=...2b/6a478a453663695b288b7d9c_Pau%206.avif alt="">
+                      <div .content_approach-scroll-two-image is-top  
+                        <img class="content_approach-scroll-two-img" src=...2b/6a478a842ccb9c9938480ade_Pau%207.avif alt="">
+                      <div .content_approach-scroll-two-image is-bot  
+                        <img class="content_approach-scroll-two-img" src=...7de8ca9b0e18a74_approach-frame-five.avif alt="">
+                    <div .content_approach-scroll-balance is-bottom  
+                      <div .content_approach-scroll-max is-light  
+                        <p .u-body u-body_body data-scroll-delievery=text-2 data-text-none=true 
+                          "Material, light, proportion, restraint. Choices that feel calm and age well."
+                  <div .content_approach-scroll-item is-awards  
+                    <div .content_approach-scroll-balance  
+                      <div .content_approach-scroll-heading  
+                        <div .caption-wrapper dark-5 data-scroll-delievery=tag-3 data-text-none=true 
+                          <div .braket-wrapper dark-8  
+                          <p .u-body u-body_caption is-current dark-7  
+                            "03"
+                          <div .braket-wrapper dark-8  
+                        <h2 .u-head u-head_two data-scroll-delievery=head-3 data-text-none=true 
+                          "Delivery"
+                    <div .content_approach-scroll-balance is-flex  
+                      <div .content_approach-scroll-one-image is-small  
+                        <img class="content_approach-scroll-one-img" src=...08ef1ff1eee44a_object-scroll-people.webp alt="">
+                    <div .content_approach-scroll-balance is-bottom  
+                      <div .content_approach-scroll-max  
+                        <p .u-body u-body_body data-scroll-delievery=text-3 data-text-none=true 
+                          "Coordination, timing, detailing through handover. Where the design stays intact."
+                    <img class="u-image is-blur" src=...0b653754d90c6_back%20approach-scroll.svg alt="">
+                  <div .content_approach-scroll_back  
+                <div .content_approach-back  
+        <div .scroll-container--lvl-2  
+          <section .u-section is-sticky data-scroll=dark 
+            <div .container is-padding  
+              <div .content  
+                <div .content_about  
+                  <div .content_about-grid-12  
+                    <div .content_about-heading  
+                      <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                        <div .braket-wrapper  
+                        <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                          "in years"
+                        <div .braket-wrapper  
+                      <h2 .u-head u-head_two data-text-none= data-text=head-two data-wf--head-2--variant=base 
+                        "About us."
+                  <div .content_about-grid  
+                    <div .card_about-flex  
+                      <div .card-about  
+                        <div .card-about_text  
+                          <p .u-body u-body_body-big data-text-none= data-text=big-body 
+                            "Years in Spain"
+                          <p .u-head is-display is-card data-text-counter=10 data-text=body data-text-none=true 
+                            "10"
+                        <div .card-about_overlay--second  
+                        <div .card-about_overlay  
+                        <img class="u-image is-blur" src=...ea478df4265a33fc_years%20card%20one.webp alt="">
+                      <div .card-about  
+                        <div .card-about_text  
+                          <p .u-body u-body_body-big data-text-none= data-text=big-body 
+                            "Years in practice"
+                          <p .u-head is-display is-card data-text-counter=20 data-text=body data-text-none=true 
+                            "20"
+                        <div .card-about_overlay--second  
+                        <div .card-about_overlay  
+                        <img class="u-image is-blur" src=...3cd9f83fbd24af55_years%20card%20two.webp alt="">
+                      <div .card-about  
+                        <div .card-about_text  
+                          <p .u-body u-body_body-big data-text-none= data-text=big-body 
+                            "Projects in Spain"
+                          <p .u-head is-display is-card data-text-counter=38 data-text=body data-text-none=true 
+                            "38"
+                        <div .card-about_overlay--second  
+                        <div .card-about_overlay  
+                        <img class="u-image is-blur" src=...dc2a87eca52d47_years%20card%20three.webp alt="">
+                      <div .card-about  
+                        <div .card-about_text  
+                          <p .u-body u-body_body-big data-text-none= data-text=big-body 
+                            "Projects worldwide"
+                          <p .u-head is-display is-card data-text-counter=182 data-text=body data-text-none=true 
+                            "182"
+                        <div .card-about_overlay--second  
+                        <div .card-about_overlay  
+                        <img class="u-image is-blur" src=...3b0fb3a7a781748_years%20card%20four.webp alt="">
+                  <div .content_about-grid-text is-pc  
+                    <div .content_about-text-wrapper  
+                      <div .content_about-text-max  
+                        <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                          "In a well-composed interior, nothing is accidental. Proportion sets the structur"
+                        <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                          "We begin with how the home should work, refine how it should feel, and guide eve"
+                        <div .content_about-button  
+                          <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/projects
+                            "view projects"
+      <section .u-section data-scroll=dark 
+        <div .container is-padding  
+          <div .content  
+            <div .content_marquee  
+              <div .content_marquee-heading  
+                <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                  <div .braket-wrapper  
+                  <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                    "Trusted by"
+                  <div .braket-wrapper  
+                <h2 .u-head u-head_two data-text-none= data-text=head-two data-wf--head-2--variant=base 
+                  "Built together with."
+              <div .marquee-wrapper  
+                <div .marquee-line  
+                  <div .marquee-linline  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+                  <div .marquee-linline  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+                  <div .marquee-linline  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+                <div .marquee-line second  
+                  <div .marquee-linline second  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+                  <div .marquee-linline second  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+                  <div .marquee-linline second  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+                <div .marquee-line three  
+                  <div .marquee-linline  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+                  <div .marquee-linline  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+                  <div .marquee-linline  
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2b/69eeb0b5c52612742b1579c2_everyuay.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b5259a41220b939ba8_ahstep.ru.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ac4f2b/69eeb0b556976a283ce15fc4_elis.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b0b59234e119f17ef589_muller-mena.com.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...69eeb0b671a8a48195f5c73e_mediamarkt.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...b/69eeb0b541c08e6683c9492c_diabakery.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...ebac4f2b/69f0adc6a103e937f375540e_96.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5ef6ebe73c7bedc9e_Dose.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b5618888318db8ee82_kaldi.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...2ebac4f2b/69eeb0b571a8a48195f5c739_y.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b568a962c4eb7cd804_Baron.webp alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...4f2b/69eeb0b591900fe5ef8dac86_jazean.svg alt="">
+                    <div .marquee-item  
+                      <img class="marquee-logo" src=...c4f2b/69eeb0b5d535bb6852e9e526_mango.svg alt="">
+      <section .u-section is-gray data-scroll=light 
+        <div .container is-padding  
+          <div .content  
+            <div .content_blog  
+              <div .content_blog-heading  
+                <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                  <div .braket-wrapper  
+                  <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                    "From the studio"
+                  <div .braket-wrapper  
+                <h2 .u-head u-head_two data-text-none= data-text=head-two data-wf--head-2--variant=base 
+                  "Blog."
+              <div .content_blog-wrapper w-dyn-list  
+                <div .content_blog-grid w-dyn-items  
+                  <div .content_blog-item w-dyn-item  
+                    <a .u-blog w-variant-d3198257-e348-f754-556b-e747cc3f4a3e w-inline-block data-wf--blog-item--variant=awards href=/blog/latelier-barcelona-a-pastry-shop-w
+                      <div .u-blog_image  
+                        <img class="u-image is-blur" src=...6a7aed83a98c59ca55c2cc84_ATELIER-14.avif alt="">
+                      <div .u-separator w-variant-d10524e8-4b09-7622-5356-bd710d629656 data-wf--separator--variant=size-16px 
+                      <div .u-blog_text  
+                        <p .u-body u-body_body-big data-text-none= data-text=big-body 
+                          "L'Atelier Barcelona: a pastry shop where dessert is the main character and the i"
+                        <div .u-separator w-variant-a321317e-c4f0-122d-9f04-78e81c578127 data-wf--separator--variant=size-8px 
+                        <div .u-link is-cms  
+                          "view all article"
+                      <div .content_composition-card-over w-variant-d3198257-e348-f754-556b-e747cc3f4a3e data-awards=scroll 
+                  <div .content_blog-item w-dyn-item  
+                    <a .u-blog w-variant-d3198257-e348-f754-556b-e747cc3f4a3e w-inline-block data-wf--blog-item--variant=awards href=/blog/barcelona-pavilion-the-building-th
+                      <div .u-blog_image  
+                        <img class="u-image is-blur" src=...a_pavilion_ludwig_mies_van_der_rohe.avif alt="">
+                      <div .u-separator w-variant-d10524e8-4b09-7622-5356-bd710d629656 data-wf--separator--variant=size-16px 
+                      <div .u-blog_text  
+                        <p .u-body u-body_body-big data-text-none= data-text=big-body 
+                          "Barcelona Pavilion: the building that made minimalism luxurious"
+                        <div .u-separator w-variant-a321317e-c4f0-122d-9f04-78e81c578127 data-wf--separator--variant=size-8px 
+                        <div .u-link is-cms  
+                          "view all article"
+                      <div .content_composition-card-over w-variant-d3198257-e348-f754-556b-e747cc3f4a3e data-awards=scroll 
+                  <div .content_blog-item w-dyn-item  
+                    <a .u-blog w-variant-d3198257-e348-f754-556b-e747cc3f4a3e w-inline-block data-wf--blog-item--variant=awards href=/blog/cotton-house-a-quiet-barcelona-pla
+                      <div .u-blog_image  
+                        <img class="u-image is-blur" src=..._cotton%2Bhouse%2Bhotel%2Bbarcelona.avif alt="">
+                      <div .u-separator w-variant-d10524e8-4b09-7622-5356-bd710d629656 data-wf--separator--variant=size-16px 
+                      <div .u-blog_text  
+                        <p .u-body u-body_body-big data-text-none= data-text=big-body 
+                          "Cotton House: a quiet Barcelona place you only share with your own"
+                        <div .u-separator w-variant-a321317e-c4f0-122d-9f04-78e81c578127 data-wf--separator--variant=size-8px 
+                        <div .u-link is-cms  
+                          "view all article"
+                      <div .content_composition-card-over w-variant-d3198257-e348-f754-556b-e747cc3f4a3e data-awards=scroll 
+              <div .content_blog-button  
+                <a .u-btn-link w-button data-wf--button-link--settings-color=base href=/blog
+                  "All journal"
+      <section .u-section data-scroll=dark 
+        <div .container is-padding  
+          <div .content  
+            <div .content_founder  
+              <div .founder_grid  
+                  "[data-scroll=&quot;font-creative&quot;] .gsap_split_letter {overflow: visible !i"
+                <div .founder_about  
+                  <div .founder_avatar  
+                    <img class="u-image is-blur is-kirill" src=...69ee70ea3661a77a4c258807_teamleader.webp alt="">
+                  <div .founder_slogan  
+                    <div .founder_slogan-wrapper  
+                      <h2 .u-head is-katherine data-scroll=font-creative 
+                        ""Good design feels inevitable. Nothing extra, nothing missing""
+                      <h2 .u-head is-katherine is-second data-scroll=font-creative 
+                        ""Good design feels inevitable. Nothing extra, nothing missing""
+                    <div .founder_slogan-name is-pc  
+                      <p .u-body is-founder data-text=big-body 
+                        "Kirill"
+                      <p .u-body u-body_caption is-founder-caption data-text=caption 
+                        "CEO & FOUNDER"
+                  <div .founder_about-him-item is-bot is-mobile  
+                    <button .u-btn w-variant-e90b2c05-289f-7ee3-03f0-6e151838f041 data-wf--button--variant=dark data-trigger=calling-form data-lenis-stop= 
+                      <span .  
+                        <span .  
+                          "Request a call"
+                      <span .  
+                    <div .founder_social-wrapper is-right  
+                      <a .u-btn-social w-inline-block  href=https://www.instagram.com/stanzza_design
+                        <div .u-btn-social_icon  
+                      <a .u-btn-social w-inline-block  href=https://www.linkedin.com/in/kirill-ivko-
+                        <div .u-btn-social_icon  
+                      <a .u-btn-social w-inline-block  href=https://www.behance.net/stanzza
+                        <div .u-btn-social_icon  
+                <div .founder_about-him  
+                  <div .founder_slogan-name is-mobile  
+                    <p .u-body is-founder data-text=big-body 
+                      "Kirill"
+                    <p .u-body u-body_caption is-founder-caption is-mobile  
+                      "CEO & FOUNDER"
+                  <div .founder_about-him-item is-top  
+                    <p .u-body u-body_body is-founder-text data-text=body 
+                      "Kirill works like an architect inside the interior. Proportion first, then mater"
+                  <div .founder_about-him-item is-mid  
+                    <div .founder_about-link-line  
+                      <p .u-body u-body_caption is-founder-caption is-light data-text=caption 
+                        "email"
+                      <a .u-link w-variant-1a88350e-7971-7f0e-83b5-804e5d05a445 data-link= data-wf--text-link--settings-variant=link-light href=mailto:kirill@stanzza.design?subject=Sta
+                        "kirill@stanzza.design"
+                    <div .founder_about-link-line  
+                      <p .u-body u-body_caption is-founder-caption is-light data-text=caption 
+                        "location"
+                      <a .u-link w-variant-1a88350e-7971-7f0e-83b5-804e5d05a445 data-link= data-wf--text-link--settings-variant=link-light href=https://maps.app.goo.gl/TGYpnaESmci1h4PS
+                        "Barcelona"
+                  <div .founder_about-him-item is-bot is-pc  
+                    <button .u-btn w-variant-fe8b5c72-4a88-0644-350a-e5da0056e9f4 data-wf--button--variant=white data-trigger=calling-form data-lenis-stop= 
+                      <span .  
+                        <span .  
+                          "Request a call"
+                      <span .  
+                    <div .founder_social-wrapper  
+                      <a .u-btn-social w-inline-block  href=https://www.instagram.com/stanzza_design
+                        <div .u-btn-social_icon  
+                      <a .u-btn-social w-inline-block  href=https://www.linkedin.com/in/kirill-ivko-
+                        <div .u-btn-social_icon  
+                      <a .u-btn-social w-inline-block  href=https://www.behance.net/stanzza
+                        <div .u-btn-social_icon  
+      <section .u-section is-faq data-scroll=dark 
+        <div .container is-padding  
+          <div .content  
+            <div .content_faq is-awards  
+              <div .content_faq-heading  
+                <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                  <div .braket-wrapper  
+                  <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                    "FAQs"
+                  <div .braket-wrapper  
+                <h2 .u-head u-head_two data-text-none= data-text=head-two data-wf--head-2--variant=base 
+                  "Questions clients often ask"
+              <div .content_faq-questions  
+                <div .content_faq-questions-inline  
+                  <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                    <div .faq-item_trigger w-dropdown-toggle  
+                      <h3 .u-head u-head_four is-faq data-text=head-three 
+                        "Do you only create the design project, or do you manage the renovation end to en"
+                      <div .faq-item_trigger-arrow  
+                        <div .u-icon  
+                    <nav .faq-item_content w-dropdown-list  
+                      <div .faq-item_content-inline  
+                        <div .faq-item_content-max  
+                          <div .u-rich w-richtext  
+                            <p .  
+                              "We support the project at every stage — from the initial concept to a fully furn"
+                            <p .  
+                              "Our services are divided into separate blocks, which can be commissioned togethe"
+                            <p .  
+                              "The construction work itself is carried out by a licensed general contractor, wh"
+                            <p .  
+                              "So yes, we offer an end-to-end renovation management service — but not through o"
+                  <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                    <div .faq-item_trigger w-dropdown-toggle  
+                      <h3 .u-head u-head_four is-faq data-text=head-three 
+                        "What is included in the design project, and what will I receive?"
+                      <div .faq-item_trigger-arrow  
+                        <div .u-icon  
+                    <nav .faq-item_content w-dropdown-list  
+                      <div .faq-item_content-inline  
+                        <div .faq-item_content-max  
+                          <div .u-rich w-richtext  
+                            <p .  
+                              "The design project consists of three main sections."
+                            <p .  
+                                "Design concept"
+                              "We study your aesthetic preferences, collect references, create a moodboard and "
+                            <p .  
+                                "3D visualisation"
+                              "We create a three-dimensional model of the space, develop all materials and text"
+                            <p .  
+                                "Architectural documentation"
+                              "This is a complete set of technical drawings, including: measurement plans, demo"
+                            <p .  
+                              "You receive a fully approved set of project documentation that can be used to pr"
+                            <p .  
+                              "Engineering design — including heating, plumbing, boiler room, ventilation, air "
+                  <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                    <div .faq-item_trigger w-dropdown-toggle  
+                      <h3 .u-head u-head_four is-faq data-text=head-three 
+                        "How much does the design project cost, and what affects the price?"
+                      <div .faq-item_trigger-arrow  
+                        <div .u-icon  
+                    <nav .faq-item_content w-dropdown-list  
+                      <div .faq-item_content-inline  
+                        <div .faq-item_content-max  
+                          <div .u-rich w-richtext  
+                            <p .  
+                              "A tailored approach is at the heart of how we work. We do not use templates: eve"
+                            <p .  
+                              "The price depends on the size of the property, the scope of required sections, t"
+                            <p .  
+                              "The current condition of the property is also important. A major renovation with"
+                            <p .  
+                              "Tell us about your property, and we will quickly prepare an estimate tailored to"
+                  <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                    <div .faq-item_trigger w-dropdown-toggle  
+                      <h3 .u-head u-head_four is-faq data-text=head-three 
+                        "How is the renovation estimate prepared, and what does it include?"
+                      <div .faq-item_trigger-arrow  
+                        <div .u-icon  
+                    <nav .faq-item_content w-dropdown-list  
+                      <div .faq-item_content-inline  
+                        <div .faq-item_content-max  
+                          <div .u-rich w-richtext  
+                            <p .  
+                              "The estimate is prepared based on the approved interior design project, engineer"
+                            <p .  
+                              "It is prepared in two languages — Russian and Spanish — and includes work across"
+                            <p .  
+                              "We then form a pool of general contractors, check their licences and run a tende"
+                            <p .  
+                              "As a result, you receive a transparent and verified calculation — not a rough “b"
+                  <div .faq-more  
+                    <div .faq-more_wrapper  
+                      <div .faq-item w-variant-eec10381-ba6b-7251-0f36-209a95416420 w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=last 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "What happens if the final cost of works exceeds the estimate?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "The final estimate is fixed after the tender and included in the contract with t"
+                                <p .  
+                                  "As part of project management, we maintain a consolidated budget and payment sch"
+                                <p .  
+                                  "Cost increases are usually possible in two cases: if you make changes to the pro"
+                                <p .  
+                                  "Any such changes are agreed and formalised separately."
+                      <div .faq-item w-variant-eec10381-ba6b-7251-0f36-209a95416420 w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=last 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "What are the stages of work — from first enquiry to completion?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "Everything starts with an enquiry and a brief: we get to know each other, discus"
+                                <p .  
+                                  "The work then follows three main stages."
+                                <h3 .  
+                                    "1. Design"
+                                <p .  
+                                  "Interior design project: concept, 3D visualisation and technical documentation."
+                                  "Engineering design."
+                                <h3 .  
+                                    "2. Budgeting"
+                                <p .  
+                                  "Cost estimate and tender: we prepare the estimate, check contractor licences and"
+                                  "Development of a detailed work schedule and contract with the contractor."
+                                  "Preparation of the procurement budget: materials, furniture, lighting and décor."
+                                <h3 .  
+                                    "3. Implementation"
+                                <p .  
+                                  "Project launch, design supervision and project management throughout the entire "
+                                  "Procurement and logistics: purchasing, timeline control, delivery coordination, "
+                                  "Final handover of the completed property."
+                      <div .faq-item w-variant-eec10381-ba6b-7251-0f36-209a95416420 w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=last 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "How long does the design project take, and how long does the renovation take?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "Timelines, like costs, are always individual. They depend on the size of the pro"
+                                <p .  
+                                  "On average, the design stage takes from 1 to 4 months, while construction takes "
+                                <p .  
+                                  "The exact timeline is included in the detailed work schedule, which we use to ma"
+                                <p .  
+                                  "Tell us about your property, and we will prepare a realistic schedule for your p"
+                      <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "What is design supervision, and why do I need it?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "Design supervision means that the designer supports the construction process to "
+                                <p .  
+                                  "As part of supervision, the designer visits the site 1–2 times a week, works dir"
+                                <p .  
+                                  "Without design supervision, there is a high risk that the construction team will"
+                      <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "What is project management, and why is it necessary?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "Project management is the coordination of the entire process — from design to fi"
+                                <p .  
+                                  "Already at the design stage, we take over communication with neighbours, the bui"
+                                <p .  
+                                  "During construction, we organise the tender between general contractors, check e"
+                                <p .  
+                                  "Without dedicated management, the process can easily get out of control: deadlin"
+                                <p .  
+                                  "Project management removes these risks and keeps the entire process under contro"
+                      <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "How many rounds of revisions are included?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "Our goal is to design and deliver a project that you are truly happy with — whil"
+                                <p .  
+                                  "That is why we carefully develop every decision together with you and make revis"
+                                <p .  
+                                  "The work is divided into phases, and each phase is approved before we move on to"
+                                <p .  
+                                  "Changes to an already approved phase are possible, but they are billed separatel"
+                      <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "What warranties do you provide for the renovation?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "The warranty for construction works is provided by the licensed general contract"
+                                <p .  
+                                  "Our contractors are confident in the quality of their work and provide a full wa"
+                                <p .  
+                                    "1 year"
+                                  "— for defects in finishing works;"
+                                    "3 years"
+                                  "— for everything that affects living comfort, including humidity, insulation and"
+                                    "10 years"
+                                  "— for the structural safety of the property."
+                                <p .  
+                                  "On our side, we are responsible for the quality of the project documentation, th"
+                                <p .  
+                                  "This way, you are protected at every level: the design, the implementation and t"
+                      <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "Do I need permits for the renovation, and do you handle them?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "In Spain, renovation and construction works usually require a permit —"
+                                    "licencia de obras"
+                                  ". The type of permit depends on the scope of work, as well as the requirements o"
+                                <p .  
+                                  "We take care of this process for you. Our licensed architects prepare the requir"
+                                <p .  
+                                  "You do not need to deal with the bureaucracy yourself — we handle it on your beh"
+                      <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "Do you purchase materials and furniture, or is that my responsibility?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "We can take care of all purchases for you through our procurement service."
+                                <p .  
+                                  "You receive not only 10–20% discounts from stores that work with designers, but "
+                                <p .  
+                                  "We select a pool of suppliers, find the best prices and conditions, agree materi"
+                                <p .  
+                                  "After that, we handle everything: placing orders, organising delivery, accepting"
+                                <p .  
+                                  "You do not need to deal with invoices, deadlines or supplier negotiations — we m"
+                      <div .faq-item w-dropdown data-delay=650 data-hover=false data-wf--faq-item--variant=main 
+                        <div .faq-item_trigger w-dropdown-toggle  
+                          <h3 .u-head u-head_four is-faq data-text=head-three 
+                            "Can we work together remotely if I live in another country or city?"
+                          <div .faq-item_trigger-arrow  
+                            <div .u-icon  
+                        <nav .faq-item_content w-dropdown-list  
+                          <div .faq-item_content-inline  
+                            <div .faq-item_content-max  
+                              <div .u-rich w-richtext  
+                                <p .  
+                                  "Yes. The interior design project and engineering design can be developed remotel"
+                                <p .  
+                                  "Implementation on site — including design supervision and project management — t"
+                                <p .  
+                                  "To keep you fully informed, you will have a personal Notion workspace with all p"
+                                <p .  
+                                  "You can follow the progress online from anywhere in the world — without constant"
+                    <button .u-btn data-button-swap=swap-trigger 
+                      <span .span data-text=show-swap 
+                        "show more"
+      <footer .footer data-wf--footer--variant=base 
+        <div .footer_top  
+          <div .footer_top-content  
+            <div .footer_top-text  
+              <div .caption-wrapper w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef data-text-none= data-text=caption data-wf--caption--variant=dark 
+                <div .braket-wrapper  
+                <p .u-body u-body_caption is-current w-variant-91e511fe-3f47-6b29-c9c5-c47a54a7b0ef  
+                  "GET IN TOUCH"
+                <div .braket-wrapper  
+              <h2 .u-head u-head_two data-text-none= data-text=head-two data-wf--head-2--variant=base 
+                "Start with a conversation."
+            <div .footer-top_text-second  
+              <div .footer-top_text-limit  
+                <p .u-body u-body_body w-variant-83900b5e-f8ec-f703-17d0-faa66276048b data-text-none= data-text=body data-wf--body--variant=middle 
+                  "Share a few details about your project and we'll come back with a clear plan."
+              <button .u-btn w-variant-e90b2c05-289f-7ee3-03f0-6e151838f041 data-wf--button--variant=dark data-trigger=modal-form data-lenis-stop= 
+                <span .  
+                  <span .  
+                    "START A PROJECT"
+        <div .footer_middle  
+          <div .footer_middle-main  
+            <div .footer_middle-content  
+              <nav .footer_middle-menu  
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=footer-projects data-wf--text-link--settings-variant=footer-menu href=/#composition
+                  "About"
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=footer-vendors data-wf--text-link--settings-variant=footer-menu href=/projects
+                  "Projects"
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=footer-about data-wf--text-link--settings-variant=footer-menu href=/#story
+                  "Approach"
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=footer-contacts data-wf--text-link--settings-variant=footer-menu href=/blog
+                  "Blog"
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=footer-contacts data-wf--text-link--settings-variant=footer-menu href=#footer
+                  "Contacts"
+              <div .footer_middle-logo  
+                <div .u-footer-logo  
+                  <a .logo-link is-main w-inline-block data-link=home data-wf--logo-link--variant=base href=/
+                  <p .u-body u-body_body data-text-none= data-text=body data-wf--body--variant=base 
+                    "© Stanzza design Europe 2026"
+              <div .footer_middle-menu is-left  
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=social-linkedln data-wf--text-link--settings-variant=footer-menu href=https://www.linkedin.com/in/kirill-ivko-
+                  "LinkedIn"
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=social-instagram data-wf--text-link--settings-variant=footer-menu href=https://www.instagram.com/stanzza_design
+                  "Instagram"
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=social-behance data-wf--text-link--settings-variant=footer-menu href=https://www.behance.net/stanzza
+                  "Behance"
+                <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=social-facebook data-wf--text-link--settings-variant=footer-menu href=https://www.facebook.com/Stanzza-Design-
+                  "Facebook"
+          <div .footer_middle-second  
+              <p .u-body u-body_body data-text-none=true data-text=body data-wf--body--variant=base 
+                "Call us"
+              <a .u-link w-variant-3a121a20-fd20-359a-241d-88f9322f2338 data-link=phone-footer data-wf--text-link--settings-variant=footer-menu href=tel:+34654496780
+                "+34 654 496 780"
+            <div .footer_middle_back-to-top  
+              <a .u-link w-variant-081c70de-8369-dc59-1fc8-c271409aed40 data-link=back-to-top data-wf--text-link--settings-variant=cms-link href=#hero
+                "Back to top"
+            <div .footer_middle-second-docs  
+              <a .u-link w-variant-aa1f4612-96d0-1b47-416f-0c933312680f data-link=docs-privacy data-wf--text-link--settings-variant=docs-link href=/documents/privacy-policy
+                "Privacy Policy"
+              <a .u-link w-variant-aa1f4612-96d0-1b47-416f-0c933312680f data-link=docs-terms-of-use data-wf--text-link--settings-variant=docs-link href=/documents/terms-of-service
+                "Terms of Service"
+              <a .u-link w-variant-aa1f4612-96d0-1b47-416f-0c933312680f data-link=docs-cookies data-wf--text-link--settings-variant=docs-link href=/documents/cookie-policy
+                "Cookies Settings"
+        <div .footer_bottom  
+          <video .footer_bottom-video data-autoplay=true 
+        <div .footer_back  
+          <img class="u-image is-blur" src=...ac4f2b/69f0d2d45e19ec2b4afb087e_back.svg alt="">
+    <div .u-modal data-modal=modal-form 
+      <div .u-modal-wrapper  
+        <div .u-form w-form  
+          <form .u-form-default data-name=Email Form data-wf-page-id=6a66bbb868a1aa809735b123 data-wf-element-id=c22033e6-dbf0-f944-b01f-e286be 
+            <div .form__left  
+              <img class="u-image is-blur" src=...c4f2b/69ee7924b8fa1fe493daa4b2_main.avif alt="">
+              <div .form_left_overlay  
+              <div .for_left_head-wrapper  
+                <p .u-head u-head_two is-white  
+                  "Project inquiry"
+                <p .u-body u-body_body is-white  
+                  "Every interior starts with a conversation."
+                  "Share a few details and we’ll get back with next steps."
+            <div .form_right  
+              <div .fileds-cloud  
+                <div .field-wrapper  
+                  <label .label-none  
+                    "Name*"
+                  <input .u-input w-input data-name=Name 
+                <div .field-wrapper  
+                  <label .label-none  
+                    "Name*"
+                  <input .u-input w-input data-name=Email 
+                <div .field-wrapper  
+                  <label .  
+                    "Message"
+                <div .upload-placeholder  
+                <label .w-checkbox field-wrapper is-check  
+                  <div .w-checkbox-input w-checkbox-input--inputType-custom check w--redirected-checked  
+                  <input . data-name=Checkbox 
+                  <span .label-check w-form-label  
+                    "By submitting this form, you agree to our"
+                    <a .u-link-inline  href=/documents/privacy-policy
+                      "Privacy Policy."
+                <input .u-btn is-form w-button data-wait=Please wait... 
+              <div .u-icon u-icon_close  
+          <div .u-form-success w-form-done  
+            <div .u-form_flex  
+              <div .u-form_wrapper  
+                <div .u-form_container  
+                  <a .logo-link is-symbol w-variant-ba8b6c59-ff11-d9af-12d8-b1df6a25191c w-inline-block data-link=home data-wf--logo-link-symbol--variant=white href=/
+                  <div .u-separator w-variant-ed193ea0-1a09-2a7d-07a1-f5257ba69d5f data-wf--separator--variant=size-24px 
+                  <p .u-head u-head_two is-form  
+                    "Your request has been sent."
+                  <div .u-separator w-variant-ed193ea0-1a09-2a7d-07a1-f5257ba69d5f data-wf--separator--variant=size-24px 
+                  <p .u-body u-body_body is-form data-text=body 
+                    "We'll get back to you within 24 hours."
+              <div .u-separator w-variant-715afe6e-8fd1-475e-d1a0-f2d3473d9531 data-wf--separator--variant=size-64px 
+              <button .u-btn form is-secial data-close-modal=modal-form 
+                <span .span form-2  
+                  "Got it"
+              <div .u-icon u-icon_close  
+      <div .u-modal-overlay data-lenis-start= data-close-modal=modal-form 
+    <div .u-modal data-modal=calling-form 
+      <div .u-modal-wrapper is-calling  
+        <div .calling-form-embed w-embed w-script  
+          <div .meetings-iframe-container data-src=https://meetings-eu1.hubspot.c 
+          <div .u-icon u-icon_close  
+      <div .u-modal-overlay data-lenis-start= data-close-modal=calling-form 
+    "gsap.registerPlugin(SplitText,Flip,ScrollTrigger);"
+    "gsap.registerPlugin(SplitText);class TextAnimator{constructor(){this.textObserve"
+    ".word-wrap {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.char-wrap {
+  d"
+    "document.addEventListener("DOMContentLoaded",()=>{let e=document.querySelector('"
+    "document.addEventListener("DOMContentLoaded",()=>{let e=document.querySelectorAl"
+    "!function(){"use strict";var t={duration:1.5,stagger:.03};function e(){document."
+    "document.addEventListener("DOMContentLoaded",()=>{let t=document.querySelectorAl"
+    "/**
+ * Apartments section scroll animations
+ * Source: webflow.faaafb9f.7a590ca3"
+    "/**
+ * data-slider / Swiper helper
+ * - Apart section (.u-section.is-apart): no "
