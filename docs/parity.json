@@ -1,0 +1,338 @@
+[
+ {
+  "id": "PRE-01",
+  "surface": "preloader",
+  "feature": "Tile grid + striped backdrop, text split-in, tile convergence, hero image morph 4svw\u219242\u00d728svw\u2192100svw\u00d7100svh, header un-hide (desktop timeline)",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16; frame-by-frame screenshots match the reference sequence; timeline numbers ported from the reference script",
+  "notes": "ease \"wf4/5/6\" are undefined on the reference too \u2014 GSAP default applies in both"
+ },
+ {
+  "id": "PRE-02",
+  "surface": "preloader",
+  "feature": "Mobile (<768) preloader variant",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: hero-390 mean diff 0.09; Playwright touch run reaches the hero",
+  "notes": ""
+ },
+ {
+  "id": "PRE-03",
+  "surface": "preloader",
+  "feature": "localStorage \"1\" skip path",
+  "status": "done",
+  "evidence": "Code path present; nothing on the reference ever sets the key, so it never fires there either",
+  "notes": "Kept for parity"
+ },
+ {
+  "id": "HDR-01",
+  "surface": "header",
+  "feature": "Logo lockup (centre), menu button (left), Request a call (right)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: hero-1440 mean 0.27",
+  "notes": "Wordmark swapped for the //FF lockup"
+ },
+ {
+  "id": "HDR-02",
+  "surface": "header",
+  "feature": "Hide on scroll-down past 5vh, show on scroll-up",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: class is-hide toggles at the same scroll positions",
+  "notes": ""
+ },
+ {
+  "id": "HDR-03",
+  "surface": "header",
+  "feature": "header--dark while over [data-scroll=dark] sections",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: header--dark set at y=800/1000",
+  "notes": ""
+ },
+ {
+  "id": "NAV-01",
+  "surface": "nav",
+  "feature": "Hover dropdown (pc): panel height 450ms, separator 200ms@400, close after mouseleave, class removed after 450ms",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: sampled every 40ms \u2014 open 282\u2192640ms, separator 682\u2192841, close 2202\u21922607, display none 2802 vs reference 241\u2192642 / 642\u2192840 / 2201\u21922606 / 2801",
+  "notes": ""
+ },
+ {
+  "id": "NAV-02",
+  "surface": "nav",
+  "feature": "Tap dropdown (mobile): overflow, icon swap, logo colour, inline height, separator",
+  "status": "done",
+  "evidence": "tools/mobile_nav.mjs on both sites: identical states (display/opacity/colour/width) open and closed",
+  "notes": ""
+ },
+ {
+  "id": "NAV-03",
+  "surface": "nav",
+  "feature": "menu label swap + icon scale on hover (CSS)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16 and live hover",
+  "notes": "CSS carried verbatim"
+ },
+ {
+  "id": "HERO-01",
+  "surface": "hero",
+  "feature": "Full-bleed image, slogan row with handwriting video (data-delay 2.76), h1 char split-in, body-big",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16 and Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16",
+  "notes": "Handwriting video is the reference's slogan (\u201cArchitecture \u2715 Design \u2715 Delivery\u201d) \u2014 content, kept"
+ },
+ {
+  "id": "COMP-01",
+  "surface": "composition",
+  "feature": "Chess bars grow 0\u219255svh/35svh as the section enters",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s00600 mean 0.08",
+  "notes": ""
+ },
+ {
+  "id": "COMP-02",
+  "surface": "composition",
+  "feature": "Caption/heading/body reveals (chars/words)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16; reveal timing probed on both sites at 5 scroll positions (tools/probe.mjs) \u2014 same firing positions",
+  "notes": ""
+ },
+ {
+  "id": "COMP-03",
+  "surface": "composition",
+  "feature": "5 project cards absolutely placed, cover wipe (is-active), hover overlay + video, cursor-following \u201cview\u201d pill (lerp 0.12)",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: pill transform 117.93/171.70 vs 117.94/171.73 on the reference at the same pointer position",
+  "notes": ""
+ },
+ {
+  "id": "COMP-04",
+  "surface": "composition",
+  "feature": "Card image parallax y\u2192\u221224% over top 100%\u2192top \u2212100%",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s01200\u2013s01800 within 0.5 mean once reveal timing is excluded",
+  "notes": ""
+ },
+ {
+  "id": "COMP-05",
+  "surface": "composition",
+  "feature": "Horizontal track on small/tiny (\u2212145.5vw / \u2212290vw)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16 at 390: s01200\u2013s02400 mean \u22641.42 (video frames)",
+  "notes": ""
+ },
+ {
+  "id": "APT-01",
+  "surface": "apartments",
+  "feature": "Chess bars 65svh/25svh\u21920 on entry",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s01800 mean 0.50",
+  "notes": ""
+ },
+ {
+  "id": "APT-02",
+  "surface": "apartments",
+  "feature": "Pinned scrub: backs scale, slider scale, head/advantages slide, numbers/tools/buttons/overlay steps",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s02400\u2013s04800 mean 0.00\u20130.13",
+  "notes": ""
+ },
+ {
+  "id": "APT-03",
+  "surface": "apartments",
+  "feature": "Swiper locked until progress 1.5/3.12, unlocked \u2192 autoplay 5s, arrows, scrollbar; re-lock below",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: slider enabled at y=3300, autoplay advanced 01\u219202 after 6.5s, arrow click \u2192 03",
+  "notes": ""
+ },
+ {
+  "id": "APT-04",
+  "surface": "apartments",
+  "feature": "Mobile variant of the scrub (95%/35% slider, x/y slides)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16 at 390: s03000\u2013s06000 mean \u22641.65",
+  "notes": ""
+ },
+ {
+  "id": "APT-05",
+  "surface": "apartments",
+  "feature": "Webflow SLIDER_ACTIVE/INACTIVE number fade (IX2)",
+  "status": "omitted",
+  "evidence": "Reference dead code: those events only fire for a Webflow slider, and the section uses Swiper",
+  "notes": "Not reproduced"
+ },
+ {
+  "id": "DEL-01",
+  "surface": "delivery",
+  "feature": "Text + CTA, caption + two h2, four sticky cards with image/video, overlay fade top 35%\u21925%",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s05400\u2013s08400 mean \u22642.79 (card videos on different frames)",
+  "notes": ""
+ },
+ {
+  "id": "APR-01",
+  "surface": "approach",
+  "feature": "Pinned blue section: back/main fade in at top top; horizontal track \u2212120svh\u2192\u221280svh\u2192\u2212260svh (scrub 1); item reveals with Webflow letter/word split and stagger amount 0.375; image width wipes",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s09000\u2013s13800 mean \u22640.56",
+  "notes": "Own splitter emits the same .gsap_split_word/.gsap_split_letter markup"
+ },
+ {
+  "id": "APR-02",
+  "surface": "approach",
+  "feature": "Mobile variant (\u2212134svw\u2192\u2212100svw\u2192\u2212300svw)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16 at 390: s09000\u2013s13200 mean \u22640.67",
+  "notes": ""
+ },
+ {
+  "id": "ABT-01",
+  "surface": "about",
+  "feature": "Counters 10/20/38/182 (1s quad-out at 20% visibility)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s14400\u2013s19800 mean \u22640.57; counters seen mid-flight in both sequences",
+  "notes": ""
+ },
+ {
+  "id": "ABT-02",
+  "surface": "about",
+  "feature": "Highlight sweep across the four cards (overlay opacity + text colour)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s15000\u2013s19800 mean \u22640.57",
+  "notes": "Skipped under prefers-reduced-motion, as on the reference"
+ },
+ {
+  "id": "ABT-03",
+  "surface": "about",
+  "feature": "Cards slide \u221256vw/\u221295.5vw/\u2212214.25vw on medium/small/tiny",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16 at 390: s14400\u2013s18600 mean \u22641.95 (photo timing)",
+  "notes": ""
+ },
+ {
+  "id": "MRQ-01",
+  "surface": "marquee",
+  "feature": "Three rows \u00d7 three copies of 13 logos, 20s linear, row 2 reversed",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s20400 mean 0.44 (phase differs by capture time)",
+  "notes": "Logo wall kept as placeholder \u2014 third-party marks, replace before going live"
+ },
+ {
+  "id": "BLG-01",
+  "surface": "blog",
+  "feature": "Three items in the 4/8 grid, cover wipe, hover underline, All journal button",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s21000\u2013s22200 mean 0.00",
+  "notes": ""
+ },
+ {
+  "id": "FND-01",
+  "surface": "founder",
+  "feature": "Avatar, Katherine Plus quote, name/role, bio, email/location, CTA + socials (pc + mobile)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: s22800 mean 0.49 (copy differs by brand)",
+  "notes": "Name/role/bio/contact are FF; portrait is the reference's \u2014 placeholder until Fakhrul supplies one"
+ },
+ {
+  "id": "FAQ-01",
+  "surface": "faq",
+  "feature": "13 dropdowns, one open at a time, 650ms open/close, arrow rotate",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: open, accordion switch, close all verified; mobile via tools/mobile_nav.mjs (height 385 both)",
+  "notes": ""
+ },
+ {
+  "id": "FAQ-02",
+  "surface": "faq",
+  "feature": "Show more / show less (580ms) + label swap",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: wrapper 0\u21921011px, label SHOW LESS",
+  "notes": ""
+ },
+ {
+  "id": "FTR-01",
+  "surface": "footer",
+  "feature": "Get in touch block, menu/logo/\u00a9/socials, call/back-to-top/docs, looping video, SVG back",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16: bottom-1440 mean 0.48; s24000 mean 0.20",
+  "notes": "\u00a9 and socials are FF"
+ },
+ {
+  "id": "MDL-01",
+  "surface": "modals",
+  "feature": "Start a project modal: open/close (button, \u2715, overlay), Lenis stop/start, transitions",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: modal_state-open toggles, lenis.isStopped true while open",
+  "notes": ""
+ },
+ {
+  "id": "MDL-02",
+  "surface": "modals",
+  "feature": "Inquiry form: fields, custom checkbox, submit \u2192 success panel",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: typed name/email, submit \u2192 \u201cYour request has been sent.\u201d",
+  "notes": "No backend by scope; Webflow checkbox redirect implemented in form.js"
+ },
+ {
+  "id": "MDL-03",
+  "surface": "modals",
+  "feature": "Request a call modal (HubSpot scheduler on the reference)",
+  "status": "improved",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: same 632\u00d7720 panel, calendar + slots rendered from the current month; slots hand off to WhatsApp",
+  "notes": "Third-party embed replaced by our own static scheduler (brief scope)"
+ },
+ {
+  "id": "IMG-01",
+  "surface": "images",
+  "feature": "Blur reveal on every .u-image (IO + IX3 top 130%)",
+  "status": "done",
+  "evidence": "Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16 \u2014 no blurred image left in any settled frame",
+  "notes": ""
+ },
+ {
+  "id": "VID-01",
+  "surface": "video",
+  "feature": "data-autoplay videos play when visible, pause when not, data-delay honoured, codec fallback",
+  "status": "done",
+  "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16: card and footer videos playing in screenshots",
+  "notes": ""
+ },
+ {
+  "id": "RSP-01",
+  "surface": "responsive",
+  "feature": "No horizontal overflow, identical document height and root font-size at 320/375/768/1024/1440/1920",
+  "status": "done",
+  "evidence": "tools/probe.mjs at six widths: scrollWidth = viewport and scrollHeight/root/h1 identical to the reference at every width",
+  "notes": ""
+ },
+ {
+  "id": "SEO-01",
+  "surface": "seo",
+  "feature": "Title, description, OG image, favicon/webclip",
+  "status": "done",
+  "evidence": "index.html head; favicon = FF favicon SVG, webclip = FF apple-touch-icon",
+  "notes": "Reference had title \u201cStanzza\u201d only"
+ },
+ {
+  "id": "A11Y-01",
+  "surface": "a11y",
+  "feature": "Split text keeps aria-label + aria-hidden spans; user-scalable restriction dropped; :focused typo fixed to :focus-visible",
+  "status": "improved",
+  "evidence": "Rendered DOM inspected; build has no lightningcss warnings after the fix",
+  "notes": "Deliberate deviations recorded in the spec"
+ },
+ {
+  "id": "LNK-01",
+  "surface": "links",
+  "feature": "Internal links to /projects, /blog, /documents",
+  "status": "deferred",
+  "evidence": "Hrefs kept; Vite serves index.html for them (SPA fallback)",
+  "notes": "Out of scope per brief"
+ },
+ {
+  "id": "CKE-01",
+  "surface": "cookies",
+  "feature": "Cookie banner script",
+  "status": "omitted",
+  "evidence": "The reference DOM has no [data-cookie] element; the script is a no-op there",
+  "notes": "Not reproduced"
+ }
+]

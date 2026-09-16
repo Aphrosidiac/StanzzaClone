@@ -215,3 +215,12 @@ Kept for this local test (Fakhrul's instruction): all photography, project video
 marks, handwriting slogan video, line-art SVGs, three fonts. Replaced: Stanzza wordmark and
 symbol → `//FF` lockup / mark; name, contact, ©, socials → FF Dev Studio. Copy left as-is
 except brand identifiers (visual parity was the ask; re-casting copy changes line breaks).
+
+## 13. Deliberate deviations
+- `:focused` pseudo-class typos (3 rules) → `:focus-visible`.
+- `<buttton>` close control → `<button>` with the UA chrome reset.
+- `maximum-scale=1, user-scalable=no` dropped from the viewport meta.
+- HubSpot scheduler iframe → own static scheduler panel (same 632×720 chrome, WhatsApp hand-off).
+- Native checkbox hidden behind the Webflow custom one (the reference runtime does this in JS).
+- Webflow's SLIDER_ACTIVE/INACTIVE number fades and the cookie banner script are dead code on
+  the reference and were not carried over.
