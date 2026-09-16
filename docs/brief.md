@@ -56,7 +56,7 @@ questions asked"). Gates are self-resolved under that instruction and recorded i
   static build is the framework-appropriate answer. Deps: gsap 3.15 (same as reference, incl.
   SplitText/ScrollTrigger), @studio-freight/lenis 1.0.33 (same), swiper 11 (same major).
 - **Auth / tenancy / data volume / integrations:** none.
-- **Hosting target:** not decided; static `dist/` deploys anywhere (CF Pages direct upload is the
+- **Hosting target:** Cloudflare Pages direct upload, project `ff-stanzza` — LIVE at https://ff-stanzza.pages.dev (deployed 2026-09-16 on Fakhrul's instruction). Repo public: github.com/Aphrosidiac/StanzzaClone.
   house pattern). **No deploy without asking.**
 - **Domain:** none.
 

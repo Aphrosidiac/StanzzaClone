@@ -67,3 +67,12 @@ sites — identical state tables.
 See `docs/parity.md`: internal links are SPA-fallback stubs, the reference's dead
 slider-number IX2 and cookie script are not reproduced, portrait/logo wall/photography are the
 reference's assets pending replacement before any public deploy.
+
+## 2026-09-16 — Deploy
+
+- Pushed to https://github.com/Aphrosidiac/StanzzaClone (public) and deployed with
+  `npm run deploy` (direct-upload Pages project `ff-stanzza`, 81 files) →
+  **https://ff-stanzza.pages.dev**. Live capture/diff at 1440: avg 3.10, but 42 of 43 frames
+  ≤5.2; the one outlier (s08400, 102) was the approach back/main 0.65 s fade caught mid-flight
+  — re-probed at the same position: opacity 0.99 vs 1 on the reference (the live site's
+  `load` refresh lands later than localhost's). Not a defect.
