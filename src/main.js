@@ -20,6 +20,7 @@ import { initApart } from './js/apart.js';
 import { initDataSlider } from './js/slider.js';
 import { initScrollInteractions } from './js/ix3.js';
 import { initForms } from './js/form.js';
+import { initScheduler } from './js/sched.js';
 
 gsap.registerPlugin(ScrollTrigger, SplitText, Flip);
 window.gsap = gsap; window.ScrollTrigger = ScrollTrigger; window.SplitText = SplitText;
@@ -41,3 +42,4 @@ initDataSlider();
 initApart();
 initScrollInteractions();
 initForms();
+initScheduler();

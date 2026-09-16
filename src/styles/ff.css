@@ -6,5 +6,38 @@
 .logo-link .u-logo { display: block; }
 
 /* Static "Request a call" panel where the reference embeds a HubSpot scheduler. */
-.calling-form-embed { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; }
-.meetings-iframe-container { width: 100%; height: 100%; }
+
+/* -- Static scheduler standing in for the reference's HubSpot meetings iframe (632×720) ---- */
+.meetings-iframe-container { width: 100%; max-width: 632px; margin: 0 auto; height: 720px; }
+.ff-sched { position: relative; display: grid; grid-template-columns: 312px 1fr; grid-template-rows: 1fr auto; width: 100%; height: 100%;
+  background: #fff; border-radius: 2px; font-family: "Lexend", "Instrument Sans", Helvetica, Arial, sans-serif; color: #33475b; font-size: 14px; letter-spacing: 0; overflow: hidden; }
+.ff-sched_left { grid-row: 1; background: #425b76; color: #fff; padding: 28px 8px 24px; text-align: center; }
+.ff-sched_avatar { width: 72px; height: 72px; margin: 0 auto 26px; border-radius: 50%; background: #e5f5f8; color: #33475b; font-size: 36px; line-height: 72px; }
+.ff-sched_title { font-size: 24px; font-weight: 300; margin-bottom: 14px; }
+.ff-sched_month { display: flex; align-items: center; justify-content: center; gap: 14px; font-size: 24px; font-weight: 600; margin-bottom: 26px; }
+.ff-sched_nav { background: none; border: 0; color: #7c98b6; font-size: 26px; line-height: 1; padding: 0 4px; cursor: pointer !important; }
+.ff-sched_grid { display: grid; grid-template-columns: repeat(7, 1fr); row-gap: 14px; }
+.ff-sched_grid .dow { font-size: 14px; font-weight: 600; letter-spacing: 0.02em; }
+.ff-sched_grid .day { height: 44px; display: flex; align-items: center; justify-content: center; font-size: 15px; color: #7c98b6; }
+.ff-sched_grid .day.is-open { color: #fff; font-weight: 600; cursor: pointer; }
+.ff-sched_grid .day.is-open > span { width: 44px; height: 44px; line-height: 44px; border-radius: 50%; }
+.ff-sched_grid .day.is-selected > span { background: #fff; color: #33475b; }
+.ff-sched_right { grid-row: 1; padding: 42px 32px 0 32px; overflow: hidden; }
+.ff-sched_h { font-size: 16px; font-weight: 600; margin: 0 0 8px; }
+.ff-sched_loc { display: flex; align-items: center; gap: 10px; font-size: 15px; margin-bottom: 34px; }
+.ff-sched_chips { display: flex; margin-bottom: 40px; border: 1px solid #cbd6e2; border-radius: 3px; overflow: hidden; }
+.ff-sched_chips button { flex: 1; border: 0; border-right: 1px solid #cbd6e2; background: #fff; padding: 10px 0; font: inherit; font-size: 12px; color: #33475b; cursor: pointer !important; }
+.ff-sched_chips button:last-child { border-right: 0; }
+.ff-sched_chips button.is-active { background: #cbd6e2; }
+.ff-sched_sub { font-size: 16px; line-height: 1.5; margin-bottom: 10px; }
+.ff-sched_tz { color: #0091ae; font-weight: 600; font-size: 14px; margin: 0 0 12px 12px; }
+.ff-sched_times { display: flex; flex-direction: column; gap: 12px; height: 300px; overflow: auto; padding-right: 14px; scrollbar-width: thin; }
+.ff-sched_times a { display: block; border: 1px solid #cbd6e2; border-radius: 3px; padding: 14px; text-align: center; font-size: 16px; color: #33475b; text-decoration: none; background: #fff; flex: none; }
+.ff-sched_times a:hover { border-color: #0091ae; }
+.ff-sched_foot { grid-column: 1 / -1; grid-row: 2; border-top: 1px solid #eaf0f6; padding: 18px; text-align: center; font-size: 12px; color: #33475b; background: #fff; }
+.ff-sched_foot a { color: #33475b; text-decoration: underline; font-weight: 600; }
+@media (max-width: 767px) { .ff-sched { grid-template-columns: 1fr; grid-template-rows: auto 1fr auto; } .ff-sched_left, .ff-sched_right { grid-row: auto; } .ff-sched_times { height: 200px; } }
+
+/* The reference's close control is a misspelt <buttton> (unstyled inline element). Ours is a
+   real <button>, so strip the UA chrome to land on the same pixels. */
+button.u-modal_close { background: none; border: 0; padding: 0; font: inherit; color: inherit; }
