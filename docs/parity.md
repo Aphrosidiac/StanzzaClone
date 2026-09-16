@@ -1,6 +1,6 @@
 # Parity ledger
 
-**39/42 complete** — 37 done, 1 deferred, 2 omitted, 2 improved
+**39/42 complete** — 36 done, 1 deferred, 2 omitted, 3 improved
 
 ## a11y
 
@@ -92,7 +92,7 @@
 
 | ID | Feature | Status | Evidence | Notes |
 | --- | --- | --- | --- | --- |
-| HERO-01 | Full-bleed image, slogan row with handwriting video (data-delay 2.76), h1 char split-in, body-big | done | Driven in a fronted Chrome tab (claude-in-chrome) at 1440×708 and compared with the reference tab, 2026-09-16 and Playwright capture at 1440×900 + 390×844 diffed against the reference shots (tools/diff.py), 2026-09-16 | Handwriting video is the reference's slogan (“Architecture ✕ Design ✕ Delivery”) — content, kept |
+| HERO-01 | Full-bleed image, slogan row with handwriting video (data-delay 2.76), h1 char split-in, body-big | improved | Driven in a fronted Chrome tab (claude-in-chrome) at 1440×708 and compared with the reference tab, 2026-09-16 and Playwright capture at 1440×900 + 390×844 diffed against the reference shots (tools/diff.py), 2026-09-16 | h1 now carries the demo disclaimer (Fakhrul, 2026-09-16) at the h2 scale in a 56rem column; slogan video kept |
 
 ## images
 

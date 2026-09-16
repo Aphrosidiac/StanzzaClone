@@ -75,9 +75,9 @@
   "id": "HERO-01",
   "surface": "hero",
   "feature": "Full-bleed image, slogan row with handwriting video (data-delay 2.76), h1 char split-in, body-big",
-  "status": "done",
+  "status": "improved",
   "evidence": "Driven in a fronted Chrome tab (claude-in-chrome) at 1440\u00d7708 and compared with the reference tab, 2026-09-16 and Playwright capture at 1440\u00d7900 + 390\u00d7844 diffed against the reference shots (tools/diff.py), 2026-09-16",
-  "notes": "Handwriting video is the reference's slogan (\u201cArchitecture \u2715 Design \u2715 Delivery\u201d) \u2014 content, kept"
+  "notes": "h1 now carries the demo disclaimer (Fakhrul, 2026-09-16) at the h2 scale in a 56rem column; slogan video kept"
  },
  {
   "id": "COMP-01",

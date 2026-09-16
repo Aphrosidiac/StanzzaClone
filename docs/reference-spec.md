@@ -224,3 +224,4 @@ except brand identifiers (visual parity was the ask; re-casting copy changes lin
 - Native checkbox hidden behind the Webflow custom one (the reference runtime does this in JS).
 - Webflow's SLIDER_ACTIVE/INACTIVE number fades and the cookie banner script are dead code on
   the reference and were not carried over.
+- Hero h1 replaced by the demo disclaimer ("A demo recreation of Stanzza Design by FF Dev Studio. Every image, film, mark and word here belongs to Stanzza Design — none of it is ours."); the heading column is widened to 56rem and set at the h2 scale on pc and mobile so it holds three lines.

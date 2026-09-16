@@ -41,3 +41,9 @@
 /* The reference's close control is a misspelt <buttton> (unstyled inline element). Ours is a
    real <button>, so strip the UA chrome to land on the same pixels. */
 button.u-modal_close { background: none; border: 0; padding: 0; font: inherit; color: inherit; }
+
+/* Hero h1 carries the demo disclaimer (Fakhrul, 2026-09-16). It is ~3× the reference's headline,
+   so it gets a wider column and the h2 scale; everything else in the hero is untouched. */
+.heading-hero_container-pc.is-awards { max-width: 56rem; }
+.heading-hero_container-pc.is-awards .u-head_one,
+.heading-hero_container-mobile.is-awards .u-head_one { font-size: var(--text-sizes--h2); }
